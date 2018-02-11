@@ -24,3 +24,4 @@ Tests can be run in multiple ways:
 * https://github.com/deanml/HallowHue - A Python project to interact with the hue API's for light control.
 * https://github.com/deanml/nodequotes - A full stack node.js service with react.js front end.
 * https://github.com/deanml/springbootangularapp - A full stack springboot Angular application.
+* https://github.com/deanml/TestCatalog - An integration test catalog service with React front end for recording, running and reporting on integration tests that run as docker containers.
