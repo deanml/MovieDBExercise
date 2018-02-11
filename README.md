@@ -19,3 +19,8 @@ Tests can be run in multiple ways:
   * From Maven Command Line using mvn test -P "runstagesmoke"
   
 # Please see my comments in the source files for more information.
+# If you would like to see any other code that I have worked on recently here are some links:
+* https://github.com/deanml/DeployCheck - A Springboot service to do quality gate validation in Sonarqube via restful endpoints.
+* https://github.com/deanml/HallowHue - A Python project to interact with the hue API's for light control.
+* https://github.com/deanml/nodequotes - A full stack node.js service with react.js front end.
+* https://github.com/deanml/springbootangularapp - A full stack springboot Angular application.
