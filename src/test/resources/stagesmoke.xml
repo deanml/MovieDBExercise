@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MovieDBSmoke" verbose="1" parallel="tests" thread-count="1">
+
+   <test name="Stage Smoke">
+       <parameter name="APIKey" value="8cc3fa11bd251c224e4df93cfdf378c0"/>
+       <parameter name="BaseURI" value="https://api.themoviedb.org/"/>
+       <parameter name="BasePath" value="3"/>
+       <parameter name="UserName" value="mldean"/>
+       <parameter name="Password" value="January2018"/>
+        <classes>
+            <class name="com.example.smoke.DeploymentValidation"/>
+        </classes>
+    </test>
+
+</suite>
